@@ -1,2 +1,12 @@
-.wrap {color: red
+
+ h1 { font-family: 'Caveat', cursive; }
+ div { font-family: 'Montserrat', sans-serif; }
+ 
+.wrap 
+{
+  color: green;
+  }
+.title
+{
+color: blue;
 }
